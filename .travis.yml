@@ -17,5 +17,5 @@ deploy:
   file: "./build/libs/JAlgoArena-Eureka-*.zip"
   skip_cleanup: true
   on:
-    repo: spolnik/JAlgoArena-Eureka
+    repo: folley/JAlgoArena-Eureka
     tags: true
